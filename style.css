@@ -1,0 +1,107 @@
+:root{
+    --hr-color: #7C4EE4;
+}
+
+
+
+@font-face {
+    font-family: font;
+    src: url(./fonts/Raleway-Italic-VariableFont_wght.ttf);
+}
+
+
+.textcolor{
+    color: #7C4EE4;
+}
+
+
+.bgcolor{
+     font-size: 15px !important;
+    background-color:#7C4EE4 ;
+}
+
+.btn:hover{
+    color: #7C4EE4 !important;
+    border-color: black !important;
+
+}
+ 
+.btn{
+padding: 10px 20px !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.nav-link:hover{
+    color: #7C4EE4 !important;
+}
+
+.fa-solid:hover{
+    color: #7C4EE4 !important;
+}
+
+.tsp{
+    font-size: 16px !important;
+}
+
+
+ 
+.txc{
+    color: #666666 !important; 
+
+}
+
+.bdcolor{
+    border-color: #7C4EE4;
+    color: #7C4EE4 !important;
+    font-size: 15px;
+}
+
+.bdcolor:hover{
+    border-color: black !important;
+    color: black !important;
+    background-color: #7C4EE4 !important;
+}
+    
+
+.font{
+    font-family: font;
+
+}
+
+.margin{
+    margin-left: 100px !important;
+}
+
+
+.margin-l{
+    margin-left: 100px !important;
+}
+
+
+.margin-r{
+    margin-right: 100px !important;
+}
+
+
+.logo-margin{
+    margin-left: 450px !important;
+    padding: 30px 0px !important;
+    
+}
+
+
+.footer{
+    border-bottom: 0px;
+}
+
+.icon-margin{
+    margin-left: 410px !important;
+}
+
+
+.hr-color{
+    color:var(--hr-color) !important;
+}
